@@ -1,0 +1,12 @@
+KPI,Value
+total_sales,2297200.8603
+total_profit,286397.0216999999
+overall_profit_margin,0.12467217240315603
+total_orders,5009
+total_customers,793
+total_quantity,37873
+average_order_value,458.6146656618087
+average_shipping_duration,3.9570772609303253
+loss_making_order_pct,0.20403274106608105
+best_performing_category,Technology
+worst_performing_subcategory,Tables
